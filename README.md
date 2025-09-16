@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👉 You can also find my personal work on my [Work Github Account](https://github.com/bhumikasrc)
+👉 You can also find my personal work on my [Personal Github Account](https://github.com/bhumikasrc)
 <!--
 **bhumika-14/bhumika-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
